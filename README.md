@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bona Joshua Hutasoit</h1>
-- 🔭 I’m currently working on : Quality Assurance
 
 - 🌱 I’m currently learning : **Data Analyst, Data Science and Web Dev**
-
-- 👯 I’m looking to collaborate on **Data Analyst and Front-End Web Developer**
 
 - 📫 How to reach me: **bonajoshua98@gmail.com**
 
